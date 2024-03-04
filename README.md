@@ -5,7 +5,11 @@ In this Project, our goal is to create an End to End deployment of a student man
 ## 1- Create our User and Give permission
 Before creating our code commit repository, it is important to create our user and give him the right permission to push the code to Code Commit. Let's go to IAM, create the user and on Security Credentials, generate credentials for **https git Credentials for AWS Commit**
 
-![2](https://github.com/adrydry/End-to-End-AWS_CICD-Pipelines/assets/102819001/cca1b465-cb67-4145-9f1d-717301e359f0)
+![1](https://github.com/adrydry/End-to-End-AWS_CICD-Pipelines/assets/102819001/934ddc97-cd77-45a0-9d6b-21f0817070ce)
+
+
+![1 (2)](https://github.com/adrydry/End-to-End-AWS_CICD-Pipelines/assets/102819001/b960d27f-6608-46f3-b8b7-0a3088aff093)
+
 
 ## 2- Create our Code Commit repositoty
 ![1](https://github.com/adrydry/End-to-End-AWS_CICD-Pipelines/assets/102819001/89f92165-8595-4919-ad6f-452b6db3700e)
